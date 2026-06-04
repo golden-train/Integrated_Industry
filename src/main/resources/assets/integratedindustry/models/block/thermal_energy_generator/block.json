@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "create:block/brass_gearbox",
+    "side": "minecraft:block/oak_log"
+  }
+}

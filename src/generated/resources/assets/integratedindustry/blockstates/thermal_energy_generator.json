@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "integratedindustry:block/thermal_energy_generator/block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "integratedindustry:block/thermal_energy_generator/block"
+    },
+    "axis=z": {
+      "model": "integratedindustry:block/thermal_energy_generator/block",
+      "x": 90,
+      "y": 180
+    }
+  }
+}
